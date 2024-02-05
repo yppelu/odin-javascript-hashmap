@@ -1,4 +1,4 @@
-import Node from './Node.js';
+import Node from '../Node/Node.js';
 
 export default class HashMap {
   constructor(loadFactor) {
